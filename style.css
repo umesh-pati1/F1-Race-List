@@ -1,0 +1,113 @@
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto";
+  font-weight: 400;
+  padding: clamp(1rem, 5%, 5rem);
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  row-gap: 33px;
+}
+
+header img {
+  height: 313px;
+  object-fit: cover;
+  width: 500px;
+}
+
+header h1 {
+  align-items: center;
+  color: #000000;
+  /* identical to box height, or 56% */
+  display: flex;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  text-align: center;
+}
+
+section {
+  align-items: center;
+  background: rgba(52, 53, 53, 0.12);
+  border-radius: 16px;
+  display: flex;
+  margin-top: 98px;
+  padding-left: clamp(1rem, 3%, 39px);
+  padding-right: clamp(1rem, 16.7%, 213px);
+  width: 100%;
+}
+
+ul {
+  margin-block-end: 4.25rem;
+  padding: 0;
+  width: 100%;
+}
+
+li a {
+  align-items: center;
+  border-bottom: 1px solid #363333;
+  display: flex;
+  height: 165px;
+  column-gap: 50px;
+  padding-block: 50px 34px;
+  text-decoration: none;
+}
+
+.d-rank {
+  color: #3671c6;
+  font-size: 96px;
+  font-weight: 700;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  width: 100px;
+}
+
+.d-name {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.d-name img {
+  height: 54px;
+  width: 53px;
+  object-fit: contain;
+}
+
+.d-name span {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 44px;
+  letter-spacing: 0.15px;
+  color: #000000;
+}
+
+.d-details {
+  font-size: 18px;
+  line-height: 44px;
+  letter-spacing: 0.15px;
+  color: #000000;
+  display: flex;
+  column-gap: 50px;
+}
+
+.d-details > div {
+  display: flex;
+  flex-direction: column;
+}
+.d-details span {
+  font-weight: 700;
+  font-size: 24px;
+}
+.d-image {
+  backdrop-filter: blur(4px);
+  height: 81px;
+  object-fit: contain;
+  width: 329px;
+  margin-left: auto;
+}

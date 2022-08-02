@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="second.css" />
+    <title>Driver</title>
+  </head>
+  <body>
+    <a href="/">Home</a>
+
+    <section>
+      <button class="prev" onclick="showPrev()">Prev</button>
+      <div class="container">
+        <div class="card">
+          <div class="d-rank" id="d-rank">1</div>
+          <div class="d-name">
+            <img
+              id="racing-logo"
+              src="https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing-logo.png.transform/2col-retina/image.png"
+            /><span id="driver-fname">Max Verstappen</span>
+          </div>
+          <img
+            class="d-image"
+            id="car-logo"
+            src="https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/4col-retina/image.png"
+          />
+        </div>
+        <div class="d-details">
+          <div><span id="wins">7</span>Wins</div>
+          <div><span id="number">33</span>Number</div>
+          <div><span id="nationality">Dutch</span>Nationality</div>
+          <div><span id="dob">30-09-1998</span>DOB</div>
+          <div><span id="constructor">Red Bull</span>Constructor</div>
+        </div>
+      </div>
+      <button class="next" onclick="showNext()">Next</button>
+    </section>
+    <script src="second.js"></script>
+  </body>
+</html>

@@ -1,0 +1,62 @@
+[
+  {
+    "colorShade": "#3671C6",
+    "constrId": "red_bull",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#F91536",
+    "constrId": "ferrari",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#6CD3BF",
+    "constrId": "mercedes",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/mercedes-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/mercedes.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#2293D1",
+    "constrId": "alpine",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alpine-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/alpine.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#F58020",
+    "constrId": "mclaren",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/mclaren-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/mclaren.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#C92D4B",
+    "constrId": "alfa",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alfa-romeo-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/alfa-romeo.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#B6BABD",
+    "constrId": "haas",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/haas-f1-team-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/haas-f1-team.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#5E8FAA",
+    "constrId": "alphatauri",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alphatauri-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/alphatauri.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#358C75",
+    "constrId": "aston_martin",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/aston-martin-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/aston-martin.png.transform/4col-retina/image.png"
+  },
+  {
+    "colorShade": "#37BEDD",
+    "constrId": "williams",
+    "constrLogo": "https://www.formula1.com/content/dam/fom-website/teams/2022/williams-logo.png.transform/2col-retina/image.png",
+    "constrCar": "https://www.formula1.com/content/dam/fom-website/teams/2022/williams.png.transform/4col-retina/image.png"
+  }
+]
